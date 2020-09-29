@@ -22,3 +22,4 @@ By combining live video calls with learning commons and addressing issues of bre
 
 
 ## Milestone Links
+[Milestone 2](Milestones/milestone2.md)
