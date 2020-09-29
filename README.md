@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Pandemic! At the Disco
 
-You can use the [editor on GitHub](https://github.com/ncooley97/HCI-Term-Project-Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Team Members
+### Kylie Anderson
+### Nathan Cooley
+### Kevin Dinh
+### Frank Gonzalez
+### Tony Liang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Problem of Study
+In discussing our critiques of remote work we identified three main issues we would like to solve.
 
-### Markdown
+1. Loneliness/isolation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Consolidation (i.e. Needing Piazza + eLc + Zoom + Google Docs)
 
-```markdown
-Syntax highlighted code block
+3. Collaboration
 
-# Header 1
-## Header 2
-### Header 3
+To help combat these issues we have imagined a browser-based system that takes the functions of Zoom and [Collaborate Ultra](https://utlv.screenstepslive.com/s/faculty/m/54123/l/534959-collaborate-ultra-interface) into one place that can be added to any learning commons or remote classroom. To add a social element to this tool, we would like to add a "Water Cooler" or "Recess" function with the purpose of increasing social connection and simulating a class change or snack break where folks can take a much-needed moment off between video calls or assignments; we think productivity is just as important as trust and community in a classroom or work environment. Distractions can be a good thing.
 
-- Bulleted
-- List
+By combining live video calls with learning commons and addressing issues of breakout collaboration like a whiteboard feature, in-session collaborative documents (like Google Docs for Zoom), and breakout group specific chat rooms we create a more effective in-class/meeting experience. And simultaneously, by adding a social feature that includes suggestions for ways to unplug and destress, small multiplayer games, and video chat with the purpose of relaxing, we create a more effective out-of-class/meeting experience.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ncooley97/HCI-Term-Project-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Milestone Links
