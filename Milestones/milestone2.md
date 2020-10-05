@@ -121,4 +121,5 @@ You do not need to supply an evaluation for this milestone; however, you should 
 Success can be defined by the number of users in relevant campus communities who prefer its use to other pieces of software. This can be measured either by the use of user surveys or through application analytics. Additionally,  success can be defined by the software’s portability.  Considering a key goal is to have the tool be seamlessly integrated into existing learning platforms, it stands to reason that it should integrate into any existing e-learning software solutions. 
 
 ## Part 4:
-**TBD**
+
+[**Summary Video**](https://youtu.be/oNGTbr8lTW8)
