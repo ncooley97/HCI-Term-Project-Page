@@ -122,3 +122,15 @@ Success can be defined by the number of users in relevant campus communities who
 ## Part 4:
 
 [**Summary Video**](https://youtu.be/oNGTbr8lTW8)
+
+## Works Cited:
+
+Mykhoparkina, O. (2018, September 25). 10 of the Best Slack Alternatives for 2020. Retrieved October 05, 2020, from https://blog.hubspot.com/marketing/slack-alternatives
+
+Slack. (2020). Welcome to your new HQ. Retrieved October 05, 2020, from https://slack.com/
+
+Microsoft Teams. (2020). Retrieved October 05, 2020, from https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software
+
+Google Meet Help. (2020). Retrieved October 05, 2020, from https://support.google.com/meet/?hl=en
+
+Discord, Your Place to Talk and Hang Out. (2020). Retrieved October 05, 2020, from https://discord.com/
