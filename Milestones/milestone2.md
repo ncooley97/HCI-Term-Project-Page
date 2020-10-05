@@ -116,8 +116,7 @@ We would like our solution to be free as all of the existing solutions have some
 
 
 
-How will you measure success?
-You do not need to supply an evaluation for this milestone; however, you should discuss what criteria should be used to judge if your design is a success or not.
+**How will you measure success?**
 Success can be defined by the number of users in relevant campus communities who prefer its use to other pieces of software. This can be measured either by the use of user surveys or through application analytics. Additionally,  success can be defined by the software’s portability.  Considering a key goal is to have the tool be seamlessly integrated into existing learning platforms, it stands to reason that it should integrate into any existing e-learning software solutions. 
 
 ## Part 4:
