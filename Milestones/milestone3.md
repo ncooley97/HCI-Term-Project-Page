@@ -62,9 +62,17 @@ https://xd.adobe.com/view/d5cf4eb0-ab2b-4dab-bfc6-94bfdff70eb4-809c/
 ![Wireframe 2](https://i.imgur.com/8BxxoqU.png)
 ![Wireframe 3](https://i.imgur.com/cxmZKWh.png)
 ![Wireframe 4](https://i.imgur.com/ATiscNI.png)
-!{Wireframe 5](https://i.imgur.com/Q7KV0UM.png)
+![Wireframe 5](https://i.imgur.com/Q7KV0UM.png)
 https://drive.google.com/file/d/1m0GEB-eXZM9bjYVhXkTBQPaR4ZJFAxMP/view?usp=sharing
 ## Part 3
+
+### Wireframe Justifications
+1. **Content View**  This design was chosen to help consolidate many of the popular productivity and communication platforms (Zoom, Discord, Slack, Piazza, Teams, etc.) into a different yet familiar view in UGA’s eLC platform. As viewed from a standard 1920x1080 screen, eLC does not fully utilize the left and right side of the webpage. This design sought to maximize that unused space and incorporate those familiar elements of the platforms we use. The social aspect of the platform is important, so the sidebars allow easy access to various ways that facilitate communication and productivity: discussion and text boards, breakout rooms, lecture room, DMs to instructors and students, and the breakroom-type room. These elements in the UI are fixed while the inside content is scrollable. This keeps the elements easily accessible when browsing eLC. At the top-right, the user may search through the class discussion/text boards and course content. At the top (can pin to bottom) is a persistent toolbar that contains various tools to help productivity. Students can easily change their classview with the leftmost sidebar. We found some students did not like having to always scroll to access different functions, so this influenced many of the design decisions.
+2. **Breakroom** The breakroom area takes over the main content view to break away from the learning content and promote social interaction. Here the game list is shown along with a large view of the room chat. Users can also toggle their camera and/or user gallery view on to visually interact with their peers. Entering a game replaces the main breakroom chat with the game chat so as to not flood the main chat; the main chat remains on the right sidebar so we don’t miss any conversation!
+3. **Whiteboard** The whiteboard is simple and contains a button to invite others to collab on it. There are also buttons to change size, such as minimizing, resizing, moving, and popping out. These options allow the user to focus on other things while the whiteboard is in use.
+4. **Breakout View** The breakout view is reminiscent of many video call apps. This view allows the user to become more familiar with their peers by providing a closer view of the user or their video camera. It helps remind that actual humans are behind the profile pictures. The gallery can change to speaker view when someone has priority in presenting something.
+5. **Discussion Boards** students frequently have questions, so the discussion and text boards reside on the sidebar. Discussion boards allow students to easily ask and answer questions with a pop-out design that can be maximized should they want to focus on this function. The text boards serve as more persistent chat communications. This seeks to emulate something Piazza offers to students.
+
 
 ### High Fidelity Mockup
 
