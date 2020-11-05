@@ -53,6 +53,14 @@ https://www.figma.com/file/3YMwzudJfcKhkb4EovKvkL/Wireframe-4
 ![Wireframe 5](https://i.imgur.com/s5yXG15.png)
 https://www.figma.com/file/D07QeEOnlk2npYYVeCzM9C/Wireframe-5
 
+### Justification
+1. **Content View** We chose to use a design that would afford the user the ability to personalize access to the various online resources by way of moveable widgets in a grid view. Our reasoning was that personalization can lead to a higher level of satisfaction with the interface. 
+2. **Water Cooler**  We designed this interface so that the user could easily switch between the games and the chat, thus enhancing the level of socialization between users, a key factor we had considered at the onset of the project.
+3. **Whiteboard** Our goal in designing this interface was to provide the user with the ability to draw anything they wish and included a toolbox to facilitate the user’s expressive capacity. The primary motivation for this choice was the limits that one encounters when trying to collaborate over a text-based interface
+4. **Breakout Room** The inspiration for this design was Zoom, a video call application with which we’ve most likely all had to familiarize ourselves. As it stands, we think that the zoom interface is pretty effective at facilitating collaboration and communication, and it’s design can be incorporated into our centralized website.
+5. **Discussion Board** This interface design shares many similarities with both the eLC discussion board system and Piazza. A major difference, however, is the inclusion of persistent post-modification options (e.g. edit and delete), something which both of the aforementioned applications are lacking.
+
+
 ### Style 2
 ![Style 2](https://i.imgur.com/2QUxEfY.png)
 https://xd.adobe.com/view/d5cf4eb0-ab2b-4dab-bfc6-94bfdff70eb4-809c/
