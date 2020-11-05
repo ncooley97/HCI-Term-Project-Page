@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1m0GEB-eXZM9bjYVhXkTBQPaR4ZJFAxMP/view?usp=shari
 
 ### High Fidelity Mockup
 
-![Mockup](https://imgur.com/a/CdhRHvW)
+![Mockup](https://i.imgur.com/sgcDFBi.png)
 
 [Click here to view the completed mockup ](https://xd.adobe.com/view/d1e2a043-f7e5-4780-b655-6541486f7d7e-84b1/)
 
