@@ -52,7 +52,8 @@ https://drive.google.com/file/d/1m0GEB-eXZM9bjYVhXkTBQPaR4ZJFAxMP/view?usp=shari
 
 ### High Fidelity Mockup
 
-[Mockup](https://drive.google.com/file/d/1zKLEjJmJjnpvlGA1AKFLEUV-tLEefdIa/view?usp=sharing)
+![Mockup](https://drive.google.com/file/d/1zKLEjJmJjnpvlGA1AKFLEUV-tLEefdIa/view?usp=sharing)
+
 [Click here to view the completed mockup ](https://xd.adobe.com/view/d1e2a043-f7e5-4780-b655-6541486f7d7e-84b1/)
 
 ### Mockup Justfications
