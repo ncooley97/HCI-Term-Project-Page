@@ -57,6 +57,12 @@ https://www.figma.com/file/D07QeEOnlk2npYYVeCzM9C/Wireframe-5
 ![Style 2](https://i.imgur.com/2QUxEfY.png)
 https://xd.adobe.com/view/d5cf4eb0-ab2b-4dab-bfc6-94bfdff70eb4-809c/
 
+### Justification
+1. **Content View** This design was chosen because eLC did not utilize their entire left/right side of the page. My design sought to incorporate Zoom’s interface or a breakout room interface onto the left side of the page. This would allow users to utilize both zoom and eLC without having to have multiple applications open.
+2. **Water-cooler/ White Board** I chose to implement these two features into the video chatting feature. My design sought to imitate Zoom, since on Zoom the features are on a tool bar at the bottom of the screen for easy accessibility. For the water-cooler, I thought it would be best if the games navigation bar was small, so that the main view could display the current users in the room. Also, for the whiteboard tool, I included a button for users to invite users. I also added a tool bar, so that users could access various tools such as an eraser, marker, etc.
+3. **Discussion board** A discussion board is necessary for effective collaboration. I chose to include the discussion board button in the view of the main content view, so that it would be easily seen by users. For my design, I chose something similar to Piazza as the majority of students that use eLC are familiar to Piazza. User’s can discover post by looking at the discussions bar on the left side and when a post has been selected; it’s contents will be displayed on the right side of the screen.
+4. **Breakout Room** As previously stated, I decided to implement Zoom’s interface on the left side of the page. On my design there’s a button and once clicked on it will either give the user the option to join or host a breakout room. Also, before joining a session, users will have the option to test their audio. I felt like this feature was necessary as it would allow many mic issues to be fixed beforehand.
+
 ### Style 3
 ![Wireframe 1](https://i.imgur.com/Wol5rjL.png)
 ![Wireframe 2](https://i.imgur.com/8BxxoqU.png)
@@ -64,9 +70,10 @@ https://xd.adobe.com/view/d5cf4eb0-ab2b-4dab-bfc6-94bfdff70eb4-809c/
 ![Wireframe 4](https://i.imgur.com/ATiscNI.png)
 ![Wireframe 5](https://i.imgur.com/Q7KV0UM.png)
 https://drive.google.com/file/d/1m0GEB-eXZM9bjYVhXkTBQPaR4ZJFAxMP/view?usp=sharing
+
 ## Part 3
 
-### Wireframe Justifications
+###  Justification
 1. **Content View**  This design was chosen to help consolidate many of the popular productivity and communication platforms (Zoom, Discord, Slack, Piazza, Teams, etc.) into a different yet familiar view in UGA’s eLC platform. As viewed from a standard 1920x1080 screen, eLC does not fully utilize the left and right side of the webpage. This design sought to maximize that unused space and incorporate those familiar elements of the platforms we use. The social aspect of the platform is important, so the sidebars allow easy access to various ways that facilitate communication and productivity: discussion and text boards, breakout rooms, lecture room, DMs to instructors and students, and the breakroom-type room. These elements in the UI are fixed while the inside content is scrollable. This keeps the elements easily accessible when browsing eLC. At the top-right, the user may search through the class discussion/text boards and course content. At the top (can pin to bottom) is a persistent toolbar that contains various tools to help productivity. Students can easily change their classview with the leftmost sidebar. We found some students did not like having to always scroll to access different functions, so this influenced many of the design decisions.
 2. **Breakroom** The breakroom area takes over the main content view to break away from the learning content and promote social interaction. Here the game list is shown along with a large view of the room chat. Users can also toggle their camera and/or user gallery view on to visually interact with their peers. Entering a game replaces the main breakroom chat with the game chat so as to not flood the main chat; the main chat remains on the right sidebar so we don’t miss any conversation!
 3. **Whiteboard** The whiteboard is simple and contains a button to invite others to collab on it. There are also buttons to change size, such as minimizing, resizing, moving, and popping out. These options allow the user to focus on other things while the whiteboard is in use.
