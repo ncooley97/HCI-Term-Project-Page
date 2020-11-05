@@ -41,12 +41,28 @@
 ## Part 2
 ### Wireframes
 
+### Style 1
+![Wireframe 1](https://i.imgur.com/ClRr4mP.png)
 https://www.figma.com/file/zkHyHqkNoWMqbfDa5WhHau/Wireframe-1
+![Wireframe 2](https://i.imgur.com/AqMyhqk.png)
 https://www.figma.com/file/JG4MJTq47huEGsjnRaQEtR/Wireframe-2
+![Wireframe 3](https://i.imgur.com/2Fdd6om.png)
 https://www.figma.com/file/qA0Gs0ufoljqiJuV3twVK5/Wireframe-3
+![Wireframe 4](https://i.imgur.com/DlU4KDU.png)
 https://www.figma.com/file/3YMwzudJfcKhkb4EovKvkL/Wireframe-4
+![Wireframe 5](https://i.imgur.com/s5yXG15.png)
 https://www.figma.com/file/D07QeEOnlk2npYYVeCzM9C/Wireframe-5
+
+### Style 2
+![Style 2](https://i.imgur.com/2QUxEfY.png)
 https://xd.adobe.com/view/d5cf4eb0-ab2b-4dab-bfc6-94bfdff70eb4-809c/
+
+### Style 3
+![Wireframe 1](https://i.imgur.com/Wol5rjL.png)
+![Wireframe 2](https://i.imgur.com/8BxxoqU.png)
+![Wireframe 3](https://i.imgur.com/cxmZKWh.png)
+![Wireframe 4](https://i.imgur.com/ATiscNI.png)
+!{Wireframe 5](https://i.imgur.com/Q7KV0UM.png)
 https://drive.google.com/file/d/1m0GEB-eXZM9bjYVhXkTBQPaR4ZJFAxMP/view?usp=sharing
 ## Part 3
 
