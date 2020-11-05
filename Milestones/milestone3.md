@@ -39,10 +39,22 @@
 * One issue that is not unique to remote school is collaboration online. Quick to be realized, collaboration is a multifaceted issue at the very core of remote work. What was once as easy as walking a desk over is no longer possible from home. While there are many possible solutions to remote collaboration, we decided to improve upon three specific designs: the whiteboard function, video breakout chatrooms, and discussion boards. In a Scholarly article titled “Facilitating Collaboration in online learning” the author explains how effective collaboration interfaces are important “so new ideas and knowledge can flow from group interaction. Creating common practices and common meanings is the cornerstone of collaborative practices.” We chose these three user stories because these features are most commonly used by professors and have room to improve. For the whiteboard and chat functions, the article suggests when facilitating collaboration online, “Provide means for faster feedback, e.g., establish ways for students to assemble synchronously or near synchronously (such as in chat rooms during set hours) for more immediate feedback sessions when most students can be present.” While these three stories tackle the same core issue, they go about it in different ways unique to our overall system. We chose to focus on all three because they represent the complete, effective collaborative interface we are hoping to create. 
 
 ## Part 2
+### Wireframes
 
+https://www.figma.com/file/zkHyHqkNoWMqbfDa5WhHau/Wireframe-1
+https://www.figma.com/file/JG4MJTq47huEGsjnRaQEtR/Wireframe-2
+https://www.figma.com/file/qA0Gs0ufoljqiJuV3twVK5/Wireframe-3
+https://www.figma.com/file/3YMwzudJfcKhkb4EovKvkL/Wireframe-4
+https://www.figma.com/file/D07QeEOnlk2npYYVeCzM9C/Wireframe-5
+https://xd.adobe.com/view/d5cf4eb0-ab2b-4dab-bfc6-94bfdff70eb4-809c/
+https://drive.google.com/file/d/1m0GEB-eXZM9bjYVhXkTBQPaR4ZJFAxMP/view?usp=sharing
 ## Part 3
 
+### High Fidelity Mockup
+[Click here to view the completed mockup ](https://xd.adobe.com/view/d1e2a043-f7e5-4780-b655-6541486f7d7e-84b1/)
+
 ### Mockup Justfications
+
 
 1. **Content View** We thought this design was best since it incorporated many familiar elements from popular platforms and thus provided easy understanding of the affordances of many of the elements present in the UI. This mockup UI uses a monochrome theme to reflect the class banner image on eLC. The top toolbar has some additional function1s. It has an add button that allows users to add shortcuts to places such as Content, Assignments, Grades, etc. so they do not have to scroll up to access these functions when deeper in the content view. The top bar also has tools such as screenshare, whiteboard, and collab documents. We felt the top was an intuitive location to house these tools. The bottom-left of the left sidebar contains more user-centric controls such as enabling the mic, the camera, or editing the eLC profile. The button designs were chosen as they seemed to be identifiable signifiers with affordances that would align to common user expectations.
 
@@ -61,3 +73,4 @@
 
 
 ## Part 4
+[Summary Video](https://www.youtube.com/watch?v=udHVOX3ZLQ4&feature=emb_logo&ab_channel=KylieAnderson)
