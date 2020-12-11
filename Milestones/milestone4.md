@@ -8,7 +8,7 @@ This should constitute a ‘fair use’ of any such copyrighted material (refere
 ## Part A - High Fidelity Prototype
 
 ### A.1 - Prototype 
-![Prototype](https://imgur.com/a/9POLm9h)
+![Prototype](https://i.imgur.com/JvJEB8V.png)
 
 [Prototype Adobe XD Download](https://drive.google.com/file/d/1U1K9ymNZ4mLuRIJNZZMO_fFtqt2pZjoA/view?usp=sharing) 
 
