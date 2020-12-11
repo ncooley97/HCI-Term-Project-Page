@@ -12,7 +12,7 @@ This should constitute a ‘fair use’ of any such copyrighted material (refere
 
 [Prototype Adobe XD Download](https://drive.google.com/file/d/1U1K9ymNZ4mLuRIJNZZMO_fFtqt2pZjoA/view?usp=sharing) 
 
-[Prototype Web View](https://xd.adobe.com/view/2363024f-c09d-40b0-9485-9de39a0ba904-7630/?fullscreen)
+[Prototype Web View](https://xd.adobe.com/view/6b3f7b10-2072-4d6f-93d3-7ebc91a32cc8-3e6c/?fullscreen)
 
 ### A.2 - User Stories and Their Video Demonstrations 
 
