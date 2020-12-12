@@ -88,4 +88,6 @@ All interactions will be entirely virtual. Students will receive invites to thei
 [Informed Consent in Online Surveys](https://www.umass.edu/research/guidance/survey-guidelines)
 
 
-## Part C - TBA
+## Part C - Summary Video
+
+[Video](https://www.youtube.com/watch?v=cS29kJrC0ek&feature=youtu.be&ab_channel=KylieAnderson)
